@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #mysql
 #hardandheavy/transformers-rocm:2.1.0
-docker.io/hardandheavy/transformers-rocm:2.1.0
+docker.io/hardandheavy/transformers-rocm
