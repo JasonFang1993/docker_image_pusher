@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #mysql
 #hardandheavy/transformers-rocm:2.1.0
-docker.io/hardandheavy/transformers-rocm
+#docker.io/hardandheavy/transformers-rocm
+cr2.fit2cloud.com/1panel/maxkb:latest
