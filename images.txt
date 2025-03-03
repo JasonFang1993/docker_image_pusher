@@ -2,9 +2,6 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
-certbot/certbot
-semitechnologies/weaviate:1.19.0
-langgenius/qdrant:v1.7.3
 pgvector/pgvector:pg16
 tensorchord/pgvecto-rs:pg16-v0.3.0
 ghcr.io/chroma-core/chroma:0.5.20
