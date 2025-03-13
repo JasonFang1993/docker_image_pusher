@@ -2,5 +2,5 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latesta
-#xprobe/xinference:latest-cpu
+##xprobe/xinference:latest-cpu
 ollama/ollama
