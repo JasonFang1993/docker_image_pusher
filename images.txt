@@ -4,3 +4,4 @@
 #xhofe/alist:latesta
 xprobe/xinference:latest-cpu
 ollama/ollama
+langgenius/dify-api:1.1.0
